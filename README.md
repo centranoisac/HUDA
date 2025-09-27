@@ -8,3 +8,4 @@ Commit 8: Chỉnh sửa nhỏ
 Commit 9: Ghi chú thêm
 Commit 10: Bổ sung dữ liệu
 Commit 13: Bổ sung thông tin phụ
+Commit 15: Kết thúc bản nháp
